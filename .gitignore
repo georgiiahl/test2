@@ -1,0 +1,28 @@
+# Ignore Gradle files
+.gradle/
+**/build/
+**/out/
+
+# Ignore Android artifacts
+*.apk
+*.aab
+
+# Ignore Gradle Wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Ignore IntelliJ/Android Studio specific files
+.idea/
+*.iml
+
+# Ignore Bubblewrap related files
+android.keystore
+
+# Logs
+*.log
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore node_modules
+node_modules/
